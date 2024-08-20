@@ -1,3 +1,10 @@
+# AIFFEL_quest_rs
+
+* GitHub에서 앞으로 아이펠에서 사용할 레포지토리입니다.
+---
+Repository 구성:
+
+
 ```
 AIFFEL_quest_rs
 ├── MainQuest
