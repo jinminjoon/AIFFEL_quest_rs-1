@@ -25,6 +25,8 @@ AIFFEL_quest_rs
 │
 ├── Exploration
 │   ├── Ex01
+│   │      ├── AIFFEL_9(1)_Seyoung_Choi.ipynb
+│   │      ├── AIFFEL_9(2)_Seyoung_Choi.ipynb
 │   │      └── README.md
 │   ├── Ex02
 │   │      └── README.md
