@@ -30,7 +30,7 @@ AIFFEL_quest_rs
 │   │      ├── README.md
 │   │      └── README_2.md
 │   ├── Ex02
-│   │      ├── Ex02_Seyoung_Choi(1).ipynb
+│   │      ├── Ex02_Seyoung_Choi(1).ipynb             *2024-08-27 update!
 │   │      └── README.md
 │   ├── Ex03
 │   │      └── README.md
